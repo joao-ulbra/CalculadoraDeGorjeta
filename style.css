@@ -1,0 +1,15 @@
+body.bg-orange {
+    background-color: #FFA500; /* Laranja */
+}
+
+.container {
+    max-width: 400px;
+}
+
+#display {
+    font-size: 1.5em;
+}
+
+.buttons .btn {
+    width: calc(25% - 0.75rem); /* Largura calculada para caber 4 botões por linha */
+}
